@@ -1,4 +1,4 @@
-# A Jornada de Bia — v31.7
+# A Jornada de Bia — Sakura V.1.1 - Biometria implementada
 
 Home simplificada, estabilização de segurança, temas azul/rosa/verde com modo escuro e Random Forest experimental local.
 
